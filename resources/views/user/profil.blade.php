@@ -42,11 +42,7 @@
                 <input type="email" name="email" id="disabledTextInput" class="form-control" placeholder="sdsad@jsd.com"
                     value="{{ $dtuser->email??"" }}">
             </div>
-            <div class="mb-3">
-                <label for="disabledTextInput" class="form-label">Password</label>
-                <input type="password" name="password" id="disabledTextInput" class="form-control"
-                    placeholder="password">
-            </div>
+            
             <div class="d-grid gap-2 col-3 mx-auto">
                 <button class="btn btn-primary" type="submit">Update Profil</button>
             </div><br>

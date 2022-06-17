@@ -139,7 +139,7 @@
 
             <h2 class="fw-normal">Hemat</h2>
             <p>Asam Urat, Cholesterol, Cholesterol Total, Gula Darah Sewaktu, Hematologi, Trigliserida, Cek Urin </p>
-            <p>Rp 212.500</p>
+            <p>Rp 1500.000</p>
             <p><a  class="btn btn-secondary" href="{{ url('user.form') }}">Pesan &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
@@ -148,15 +148,15 @@
             <h2 class="fw-normal">Cholesterol</h2>
             <p>Cholesterol, Cholesterol Total, HDL Cholesterol, LDL Cholesterol, Rasio Cholesterol Total dan LDL, Trigliserida</p>
             <p>Rp 180.000</p>
-            <p><a class="btn btn-secondary" href="#">pesan &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="{{ url('user.form') }}">pesan &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             {{-- <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg> --}}
 
             <h2 class="fw-normal">Perak</h2>
             <p>Cholesterol Total, Creatimin, Gula Darah Puasa, Hematologi Lengkap, Urin lengkap, Rontgen Thorax, SGOT, SGPT, Trigliserida</p>
-            <p>Rp 180.000</p>
-            <p><a class="btn btn-secondary" href="#">Pesan &raquo;</a></p>
+            <p>Rp 190.000</p>
+            <p><a class="btn btn-secondary" href="{{ url('user.form') }}">Pesan &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
 
